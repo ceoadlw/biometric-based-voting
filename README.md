@@ -1,5 +1,3 @@
-Okay, here is the document converted into GitHub Flavored Markdown, with images replaced by placeholders based on their captions or surrounding context.
-
 # TABLE OF CONTENTS
 
 *   [Acknowledgement](#acknowledgement)
