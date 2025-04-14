@@ -1943,13 +1943,3 @@ Nakamoto S, Bitcoin A. A peer-to-peer electronic cash system. Bitcoin. –URL: h
 Zheng, W., Wang, F. Y., & Wang, K. (2017, October). An ACP-based approach to color image encryption using DNA sequence operation and hyper-chaotic system. In 2017 IEEE International Conference on Systems, Man, and Cybernetics (SMC) (pp. 461-466). IEEE.
 
 Buterin V. A next-generation smart contract and decentralized application platform. white paper. 2014 Jan 14;3(37).
-
-APPENDIX A
-
-[Content for Appendix A]
-
-IGNORE_WHEN_COPYING_START
-content_copy
-download
-Use code with caution.
-IGNORE_WHEN_COPYING_END
